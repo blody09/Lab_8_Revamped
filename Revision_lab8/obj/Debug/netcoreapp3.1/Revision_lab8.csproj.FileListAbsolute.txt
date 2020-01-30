@@ -1,0 +1,11 @@
+C:\Users\Lock\OneDrive\Desktop\Assignments\Revision_lab8\Revision_lab8\bin\Debug\netcoreapp3.1\Revision_lab8.exe
+C:\Users\Lock\OneDrive\Desktop\Assignments\Revision_lab8\Revision_lab8\bin\Debug\netcoreapp3.1\Revision_lab8.deps.json
+C:\Users\Lock\OneDrive\Desktop\Assignments\Revision_lab8\Revision_lab8\bin\Debug\netcoreapp3.1\Revision_lab8.runtimeconfig.json
+C:\Users\Lock\OneDrive\Desktop\Assignments\Revision_lab8\Revision_lab8\bin\Debug\netcoreapp3.1\Revision_lab8.runtimeconfig.dev.json
+C:\Users\Lock\OneDrive\Desktop\Assignments\Revision_lab8\Revision_lab8\bin\Debug\netcoreapp3.1\Revision_lab8.dll
+C:\Users\Lock\OneDrive\Desktop\Assignments\Revision_lab8\Revision_lab8\bin\Debug\netcoreapp3.1\Revision_lab8.pdb
+C:\Users\Lock\OneDrive\Desktop\Assignments\Revision_lab8\Revision_lab8\obj\Debug\netcoreapp3.1\Revision_lab8.csprojAssemblyReference.cache
+C:\Users\Lock\OneDrive\Desktop\Assignments\Revision_lab8\Revision_lab8\obj\Debug\netcoreapp3.1\Revision_lab8.AssemblyInfoInputs.cache
+C:\Users\Lock\OneDrive\Desktop\Assignments\Revision_lab8\Revision_lab8\obj\Debug\netcoreapp3.1\Revision_lab8.AssemblyInfo.cs
+C:\Users\Lock\OneDrive\Desktop\Assignments\Revision_lab8\Revision_lab8\obj\Debug\netcoreapp3.1\Revision_lab8.dll
+C:\Users\Lock\OneDrive\Desktop\Assignments\Revision_lab8\Revision_lab8\obj\Debug\netcoreapp3.1\Revision_lab8.pdb
